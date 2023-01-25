@@ -1,0 +1,31 @@
+/* .chatView {
+    position: relative;
+}
+
+.chatView > img {
+    cursor: pointer;
+}
+
+.chatView__timer {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin:10px;
+} */
+
+
+.chatView {
+    position: relative;
+  }
+  
+  .chatView > img {
+    cursor: pointer;
+  }
+  
+  .chatView__timer {
+    position: absolute;
+    top: 0;
+    right: 0 !important;
+    margin: 10px;
+  }
+  
